@@ -59,7 +59,7 @@ npm install  # If using React frontend
 ---
 
 ## **🤝 Contributing**  
-We welcome contributions! Feel free to open **issues, submit pull requests, or suggest improvements**.  
+Contributions are welcome! If you have suggestions for improvements or additional features, feel free to fork the repository and submit a pull request.
 
 ---
 
