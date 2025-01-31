@@ -37,20 +37,19 @@ git clone https://github.com/bansi190/Plant-Disease-Detection-for-Sustainable-Ag
 cd Plant-Disease-Detection-for-Sustainable-Agriculture
 ```
 
-```bash
 ### **2️⃣ Install Dependencies**
-```
 ```bash
 pip install -r requirements.txt
-
 ```
 ## **Usage**  
-1. **Open command prompt and run ```bash
-2. streamlit run main.py``` to open GUI**
-3. **Select Page: Disease Recognition**
-4. **Choose an image**
-5. **Choose Predict**
-6. **The model will predict the outcome and display**
+1. **Open command prompt and run the following command to run GUI**
+ ```bash
+   streamlit run main.py
+```
+4. **Select Page: Disease Recognition**
+5. **Choose an image**
+6. **Choose Predict**
+7. **The model will predict the outcome and display**
 
 ---
 
