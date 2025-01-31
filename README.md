@@ -17,16 +17,16 @@ This project aims to empower farmers, researchers, and agricultural policymakers
 ---
 
 ### **🛠 Technologies Used**  
-• **Operating System**: Windows 10/11, macOS, or Linux.
-• **Programming Language**: Python(version 3.7 or higher).
-• **Development Environment**: Jupyter Notebook for interactive development by writing and debugging code.
-• **Libraries and tools**:
-o	NumPy and Pandas for numerical computations and data manipulation.
-o	Matplotlib and Seaborn for data visualization and plotting.
-o	Streamlit used to build user interface and application for interaction.
-o	Tensorflow or PyTorch is used to power machine learning model for disease prediction.
-o	Opencv-python for handling complex image preprocessing and visualization tasks.
-o	Pillow simplifies basic image loading, manipulation and augmentation tasks.
+- **Operating System**: Windows 10/11, macOS, or Linux.
+- **Programming Language**: Python(version 3.7 or higher).
+- **Development Environment**: Jupyter Notebook for interactive development by writing and debugging code.
+- **Libraries and tools**:
+  -	NumPy and Pandas for numerical computations and data manipulation.
+  -	Matplotlib and Seaborn for data visualization and plotting.
+  -	Streamlit used to build user interface and application for interaction.
+  -	Tensorflow or PyTorch is used to power machine learning model for disease prediction.
+  -	Opencv-python for handling complex image preprocessing and visualization tasks.
+  -	Pillow simplifies basic image loading, manipulation and augmentation tasks.
   
 ---
 
