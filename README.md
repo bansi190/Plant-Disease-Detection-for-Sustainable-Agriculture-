@@ -38,18 +38,19 @@ cd Plant-Disease-Detection-for-Sustainable-Agriculture
 ```
 
 ```bash
-
-### **2️⃣ Install Dependencies**  
+### **2️⃣ Install Dependencies**
+```
 ```bash
 pip install -r requirements.txt
 
 ```
 ## **Usage**  
-1. **Open command prompt and run ```bash streamlit run main.py to open GUI**
-2. **Select Page: Disease Recognition**
-3. **Choose an image**
-4. **Choose Predict**
-5. **The model will predict the outcome and display**
+1. **Open command prompt and run ```bash
+2. streamlit run main.py``` to open GUI**
+3. **Select Page: Disease Recognition**
+4. **Choose an image**
+5. **Choose Predict**
+6. **The model will predict the outcome and display**
 
 ---
 
