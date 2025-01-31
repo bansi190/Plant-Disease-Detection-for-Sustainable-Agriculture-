@@ -35,6 +35,8 @@ This project aims to empower farmers, researchers, and agricultural policymakers
 ```bash
 git clone https://github.com/bansi190/Plant-Disease-Detection-for-Sustainable-Agriculture-.git
 cd Plant-Disease-Detection-for-Sustainable-Agriculture
+```
+
 ```bash
 
 ### **2️⃣ Install Dependencies**  
@@ -43,7 +45,7 @@ pip install -r requirements.txt
 
 ```
 ## **Usage**  
-1. **Open command prompt and run ```bash streamlit run main.py ```bash to open GUI**
+1. **Open command prompt and run ```bash streamlit run main.py to open GUI**
 2. **Select Page: Disease Recognition**
 3. **Choose an image**
 4. **Choose Predict**
