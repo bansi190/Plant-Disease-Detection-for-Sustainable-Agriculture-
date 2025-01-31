@@ -16,11 +16,11 @@ This project aims to empower farmers, researchers, and agricultural policymakers
 
 ---
 
-## **🛠 Technologies Used**  
-• Operating System: Windows 10/11, macOS, or Linux.
-• Programming Language: Python(version 3.7 or higher).
-• Development Environment: Jupyter Notebook for interactive development by writing and debugging code.
-• Libraries and tools:
+### **🛠 Technologies Used**  
+• **Operating System**: Windows 10/11, macOS, or Linux.
+• **Programming Language**: Python(version 3.7 or higher).
+• **Development Environment**: Jupyter Notebook for interactive development by writing and debugging code.
+• **Libraries and tools**:
 o	NumPy and Pandas for numerical computations and data manipulation.
 o	Matplotlib and Seaborn for data visualization and plotting.
 o	Streamlit used to build user interface and application for interaction.
@@ -65,13 +65,13 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 
 ---
 
-**Acknowledgments**
+### **Acknowledgments**
 Special thanks to the following:
 
-• Tensorflow for machine learning model.
-• Streamlit for GUI development.
-• NumPy and Pandas for data manipulation and analysis.
-• Matplotlib and Seaborn for data visualization and plotting.
+• **Tensorflow** for machine learning model.
+• **Streamlit** for GUI development.
+• **NumPy and Pandas** for data manipulation and analysis.
+• **Matplotlib and Seaborn** for data visualization and plotting.
 
 
 ## **📜 License**  
