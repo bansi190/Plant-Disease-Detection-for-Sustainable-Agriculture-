@@ -65,7 +65,7 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 
 ---
 
-### **Acknowledgments**
+## **Acknowledgments**
 Special thanks to the following:
 
 - **Tensorflow** for machine learning model.
@@ -77,5 +77,5 @@ Special thanks to the following:
 ## **📜 License**  
 This project is **open-source** under the **MIT License**.  
 
-## For any questions or issues, feel free to contact [bansiprajapati19@gmail.com].
+### For any questions or issues, feel free to contact [bansiprajapati19@gmail.com].
 
