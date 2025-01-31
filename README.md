@@ -18,15 +18,15 @@ This project aims to empower farmers, researchers, and agricultural policymakers
 
 ## **🛠 Technologies Used**  
 • Operating System: Windows 10/11, macOS, or Linux.
-•	Programming Language: Python(version 3.7 or higher).
-•	Development Environment: Jupyter Notebook for interactive development by writing and debugging code.
-•	Libraries and tools:
-  o	NumPy and Pandas for numerical computations and data manipulation.
-  o	Matplotlib and Seaborn for data visualization and plotting.
-  o	Streamlit used to build user interface and application for interaction.
-  o	Tensorflow or PyTorch is used to power machine learning model for disease prediction.
-  o	Opencv-python for handling complex image preprocessing and visualization tasks.
-  o	Pillow simplifies basic image loading, manipulation and augmentation tasks.
+• Programming Language: Python(version 3.7 or higher).
+• Development Environment: Jupyter Notebook for interactive development by writing and debugging code.
+• Libraries and tools:
+o	NumPy and Pandas for numerical computations and data manipulation.
+o	Matplotlib and Seaborn for data visualization and plotting.
+o	Streamlit used to build user interface and application for interaction.
+o	Tensorflow or PyTorch is used to power machine learning model for disease prediction.
+o	Opencv-python for handling complex image preprocessing and visualization tasks.
+o	Pillow simplifies basic image loading, manipulation and augmentation tasks.
   
 ---
 
@@ -46,10 +46,10 @@ pip install -r requirements.txt
  ```bash
    streamlit run main.py
 ```
-4. **Select Page: Disease Recognition**
-5. **Choose an image**
-6. **Choose Predict**
-7. **The model will predict the outcome and display**
+2. **Select Page: Disease Recognition**
+3. **Choose an image from training dataset**
+4. **Choose Predict**
+5. **The model will predict the outcome whether the plant is healthy or unhealthy**
 
 ---
 
