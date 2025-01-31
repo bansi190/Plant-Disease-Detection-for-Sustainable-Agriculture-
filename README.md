@@ -68,10 +68,10 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 ### **Acknowledgments**
 Special thanks to the following:
 
-• **Tensorflow** for machine learning model.
-• **Streamlit** for GUI development.
-• **NumPy and Pandas** for data manipulation and analysis.
-• **Matplotlib and Seaborn** for data visualization and plotting.
+- **Tensorflow** for machine learning model.
+- **Streamlit** for GUI development.
+- **NumPy and Pandas** for data manipulation and analysis.
+- **Matplotlib and Seaborn** for data visualization and plotting.
 
 
 ## **📜 License**  
