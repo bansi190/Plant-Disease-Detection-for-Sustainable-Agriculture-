@@ -16,7 +16,7 @@ This project aims to empower farmers, researchers, and agricultural policymakers
 
 ---
 
-### **🛠 Technologies Used**  
+## **🛠 Technologies Used**  
 - **Operating System**: Windows 10/11, macOS, or Linux.
 - **Programming Language**: Python(version 3.7 or higher).
 - **Development Environment**: Jupyter Notebook for interactive development by writing and debugging code.
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 ---
 
-## **🤝 Contributing**  
+## **Contributing**  
 Contributions are welcome! If you have suggestions for improvements or additional features, feel free to fork the repository and submit a pull request.
 
 ---
@@ -74,8 +74,10 @@ Special thanks to the following:
 - **Matplotlib and Seaborn** for data visualization and plotting.
 
 
-## **📜 License**  
+## **License**  
 This project is **open-source** under the **MIT License**.  
 
-### For any questions or issues, feel free to contact [bansiprajapati19@gmail.com].
+---
+
+For any questions or issues, feel free to contact [bansiprajapati19@gmail.com].
 
